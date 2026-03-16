@@ -1,0 +1,14 @@
+D:\DSA_Session2\DSA_Session1\bin\Debug\net8.0\DSA_Session1.exe
+D:\DSA_Session2\DSA_Session1\bin\Debug\net8.0\DSA_Session1.deps.json
+D:\DSA_Session2\DSA_Session1\bin\Debug\net8.0\DSA_Session1.runtimeconfig.json
+D:\DSA_Session2\DSA_Session1\bin\Debug\net8.0\DSA_Session1.dll
+D:\DSA_Session2\DSA_Session1\bin\Debug\net8.0\DSA_Session1.pdb
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\DSA_Session1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\DSA_Session1.AssemblyInfoInputs.cache
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\DSA_Session1.AssemblyInfo.cs
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\DSA_Session1.csproj.CoreCompileInputs.cache
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\DSA_Session1.dll
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\refint\DSA_Session1.dll
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\DSA_Session1.pdb
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\DSA_Session1.genruntimeconfig.cache
+D:\DSA_Session2\DSA_Session1\obj\Debug\net8.0\ref\DSA_Session1.dll
